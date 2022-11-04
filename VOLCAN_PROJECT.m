@@ -1,6 +1,3 @@
-
-
-
 clc
 clear
 clf
@@ -101,9 +98,3 @@ end
 figure(1)
 hold on
 comet(x,y)
-
-
-
-
-
-
